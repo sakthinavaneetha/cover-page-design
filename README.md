@@ -2,7 +2,7 @@
 
 ## AIM:
 To design a static web site for a book cover page.
-![](./image/referance.png)
+![AIM](./image/referance.png)
 ### Step 1:
 Create a new project and a app for your project. Create templates for your web application to display image. 
 
